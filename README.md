@@ -2,7 +2,7 @@
 
 🖥️ Currently exploring: Algorithms, data structures, Data sciences, 3D Modelling, Video editing, Graphic Designing and full-stack development.
 
-📚 I have a knack for learning new things, from books to tech. I also try to keep my posture in check (it's a work in progress 😅).
+📚 I have a knack for learning new things, from books to tech. 
 
 🌱 I’m a sportsaholic, constantly trying to maintain balance in my life, both mentally and physically.
 
